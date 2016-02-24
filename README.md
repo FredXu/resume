@@ -11,7 +11,6 @@
  - 许鹏远/男/31岁
  - 本科/上海工程技术大学计算机系 
  - 工作年限：7年
-
  - 期望职位：高级web前端工程师，web前端架构师
  - 期望薪资：税前月薪30~32K
 
@@ -22,7 +21,7 @@
 ## Web Developer | Autodesk （ 2014年11月 ~ 至今 ）
 
 ### Visualization360 Cloud Rendering SDK
-主要负责脚手架搭建，架构设计，包括自动化单元测试和E2E测试的设计，原有代码重构、调优以及与Fusion 360桌面产品的集成。该SDK基于AngularJS开发，可兼容1.5以下所有版本，具有友好的API设计，第三方开发者可以轻松集成至自有的产品当中。
+主要负责脚手架搭建，架构设计，包括自动化单元测试和E2E测试的设计，原有代码重构、调优以及与Fusion 360桌面产品的集成。该SDK基于AngularJS开发，可兼容1.5以下所有版本，包含settings, carousel, viewer三个挂件，具有友好的API设计，第三方开发者可以轻松集成至自有的产品当中。
 
 
 ### Visualization360 Common Styles Lib 
