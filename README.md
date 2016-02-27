@@ -13,6 +13,13 @@
  - Work Experience：7 years
  - Expected Position：Senior Front-end Developer, Front-end Archtect
  - Expected Salary：Pre-Tax 30~32K
+ 
+## Summary
+- 7+ years experience of Web Application Architecture, Software Design, OOP/OOD.
+- 7+ years experience of Web Server Side Design & Development
+- 7+ years experience of Web Client Side Design & Development
+
+
 
 ---
 
