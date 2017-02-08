@@ -62,7 +62,7 @@
 - Developed and implemented work-flow engine as WCF web-services using C#
 - Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript
 - Create documents and specifications for functional requirements 
-- Perform website and systems maintenance and enhancements
+- Performed website and systems maintenance and enhancements
 - Interpreted and executed designs correctly as requested by company leadership 
 
 ## Web Developer(Part-time) | Asia Media （ Oct 2008 ~ Apr 2009 ）
@@ -71,7 +71,7 @@
 
 - Refactored website from table layout to div+css layout
 - Migrated ASP code to ASP.NET platform
-- Perform website maintenance
+- Performed website maintenance
 
 ---
 
