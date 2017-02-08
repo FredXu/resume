@@ -75,7 +75,7 @@
 
 ---
 
-# Personal projects
+# Personal Projects
 
 ## Uni-brand.com(WeChat webapp)
 Built out the entire webapp included program and infrastructure
