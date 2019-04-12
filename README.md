@@ -10,17 +10,15 @@
 
  - **Pengyuan(Fred) Xu**
  - BACHELORS/Shanghai University of Engineering Science/Computer Science and Technology
- - Work Experience: 7+ years
- - Expected Position: Senior Front-end Developer, Front-end Architect, Full-stack engineer
+ - Work Experience: 10 years
  
 ## Summary
-- 7+ years expriences in software development and architecture designing
-- Strong understanding of industry trends and technologies
-- Rich experienced in front-end and back-end development(javascript, node.js, C#)
+- 2+ years project management experience
+- 10 years experience in software development and architecture designing
+- Rich experienced in communicating with the creative team and cross-regions team
+- Rich experienced in front and back end development
 - Rich experienced in web applications performance tuning and optimization
 - Skilled in multitasking and working on several projects simultaneously
-- Rich experienced in communicating with the creative team and cross-regions team
-- Experienced in team leading, project management
 - Excellent expressive and comprehensive ability
 - Well-organized with an ability to prioritize tasks
 
@@ -28,84 +26,67 @@
 
 # Work History
 
-## Web Developer | Autodesk （ Nov 2014 ~ Present ）
+## Manager, Software Engineering (Apr 2017 ~ Present)
 
-- Identify usability and develop functional and smooth, easy-to-operate and eye-catching web applications
-- Develop javascript SDK/solutions for desktop(Fusion 360) and web-based products
-- Develop brand new portal(rendering-beta.360.autodesk.com) that are integrated to company's micro-services
-- Perform website maintenance and enhancements
-- Write web pages using a combination of markup languages
-- Create development documents and specifications
-- Develop prototypes and high quality mock-ups
-- Provide assistance to the back-end developers in troubleshooting and coding
-- Create browser and platform compatible CSS codes
-- Develop isomorphic javascript library
-- Maintain consistency in design and layout
-- Write unit tests and E2E tests
-- Optimize website performance using latest technology 
+- Own and drive the development process, both front and back end, to deliver against the product roadmap
+- Manage teams of developers designing and implementing new functionality, as well as improving existing products
+- Participate in strategic planning and management for resources, environments and releases
+- Own scheduling and on-time delivery of features throughout the software development lifecycle
+- Work across platform, devOps, and development teams to deliver highly scalable and reliable software deployment and management services
+- Recruit top talent and passionate about growing them.
+
+
+## Web Developer | Autodesk （ Nov 2014 ~ Mar 2017 ）
+
+- Identified usability and developed functional and smooth, easy-to-operate and eye-catching web applications
+- Developed javascript SDK/solutions for desktop(Fusion 360) and web-based products
+- Developed isomorphic javascript library
+- Developed brand new portal(rendering-beta.360.autodesk.com) that are integrated to company's micro-services
+- Performed website maintenance and enhancements
+- Developed prototypes and high quality mock-ups
+- Created shared UI library based on company's visual language.
 
 
 ## .NET Developer | Ubisoft （ Aug 2011 ~ Nov 2014 ）
 
-- Developed and implemented effective CMS that are integrated to company's web-services
-- Developed and implemented Mobile-First web framework for several game websites
-- Monitored technical aspects of the front-end delivery for several projects
+- Developed and implemented effective CMS
+- Developed and implemented Mobile-First web framework for the game websites
 - Worked closely with the design team and project managers and ensured projects are delivered in a timely manner
-- Created and maintained pattern jQuery plug-ins for pages
+- Created and maintained pattern front-end plug-ins for pages
 - Created middleware for legacy systems integration
-- Ensured projects meet the industry standards
-- Recommended technical solutions and architecture to clients
+- Recommended technical solutions and architecture to clients.
 
 ## Software Engineer | Shanghai Software Centre （ Feb 2009 ~ Jul 2011 ）
 
-- Developed and implemented internal softwares(OA, CRM)
-- Developed and implemented work-flow engine as WCF web-services using C#
-- Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript
-- Create documents and specifications for functional requirements 
-- Performed website and systems maintenance and enhancements
-- Interpreted and executed designs correctly as requested by company leadership 
-
-## Web Developer(Part-time) | Asia Media （ Oct 2008 ~ Apr 2009 ）
-
-### iTv-Japan.com/iTv-Asia.com
-
-- Refactored website from table layout to div+css layout
-- Migrated ASP code to ASP.NET platform
-- Performed website maintenance
+- Developed and implemented internal softwares(OA, CRM).
 
 ---
 
-# Personal Projects
-
-## Uni-brand.com(WeChat webapp)
-Built out the entire webapp included program and infrastructure
 
 # Skills
 
-- Web Development：Javascript/Typescript/HTML5/CSS3/C#
-- Web Frameworks：ASP.NET MVC/ASP.NET CORE/Express.JS
-- Front-end Frameworks：AngularJS/BackboneJS/jQuery/Bootstrap
-- Front-end Tools：Bower/Grunt/Gulp/SASS/LESS
-- Database：MsSQL/MySQL/Redis/Memcached
-- Source Control, WIKI and Automation：Git/Svn/Perforce/JIRA/Confluence/Jenkins/TeamCity
-- Unit Test：Jasmine/Mocha/NUnit
+- Web Development：Javascript/Typescript/HTML5/CSS3/Java/C#
+- Web Frameworks：SpringMVC/Express.JS/ASP.NET MVC/ASP.NET CORE
+- Front-end Frameworks：React.JS/Angular.JS/jQuery/Bootstrap
+- Front-end Tools：Webpack/Grunt/Gulp/SASS/LESS
+- Database：PostgreSQL/MySQL/MsSQL/Redis/Memcached
+- Source Control, WIKI and Automation：Git/JIRA/Confluence/Jenkins
+- Unit Test：Jasmine/Jest/Mocha/NUnit
 - E2E Tests: Selenium/Protractor
 - Open Cloud Platform：AWS
 
 ## Skills Tags
 
+- management(70%)
 - web(95%)
-- archtecture(85%)
+- architecture(85%)
 - javascript(85%)
-- typescript(55%)
+- typescript(85%)
+- html5/css(90%)
 - c#(80%)
 - node.js(70%)
-- html5(90%)
-- css3(90%)
-- docker(40%)
-- python(30%)
 - REST(85%)
-- scrum(75%)
+- scrum(80%)
 
 ## Languages
 
