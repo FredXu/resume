@@ -13,7 +13,7 @@
  - Work Experience: 10 years
  
 ## Summary
-- 2+ years project management experience and well recognized for strong leadership
+- 2+ years project management experience and well-recognized for strong leadership
 - 10 years experience in software development and architecture designing
 - Rich experienced in communicating with the creative team and cross-regions team
 - Rich experienced in front and back end development
@@ -26,12 +26,11 @@
 
 # Work History
 
-## Manager, Software Engineering | BLACKBOARD (Apr 2017 ~ Present)
+## Manager, Software Engineering & Scrum Master | BLACKBOARD (Apr 2017 ~ Present)
 
 - Own and drive the development process, both front and back end, to deliver against the product road map
 - Manage teams of developers designing and implementing new functionality, as well as improving existing products
-- Participate in strategic planning and management for resources, environments and releases
-- Own scheduling and on-time delivery of features throughout the software development life cycle
+- Manage the highest-performance scrum team of SHA
 - Work across design, devOps, and development teams to deliver highly scalable and reliable software deployment and management services
 - Recruit top talent and passionate about growing them
 
@@ -39,26 +38,20 @@
 ## Web Developer | AUTODESK （ Nov 2014 ~ Mar 2017 ）
 
 - Identified usability and developed functional and smooth, easy-to-operate and eye-catching web applications
-- Developed javascript SDK/solutions for desktop(Fusion 360) and web-based products
-- Developed isomorphic javascript library
-- Developed brand new portal(rendering-beta.360.autodesk.com) that are integrated to company's micro-services
-- Performed website maintenance and enhancements
-- Developed prototypes and high quality mock-ups
+- Developed javascript SDK/solutions for desktop(Fusion 360) and 3rd party web-based products
+- Developed brand new portal(rendering-beta.360.autodesk.com) using HTML5, CSS3, Angular.js, Node.js and MySQL
 - Created shared UI library based on company's visual language
 
 
 ## .NET Developer | UBISOFT （ Aug 2011 ~ Nov 2014 ）
 
-- Developed and implemented effective CMS
-- Developed and implemented Mobile-First web framework for the game websites
+- Developed and implemented CMS and Mobile-First web for official portal
 - Worked closely with the design team and project managers and ensured projects are delivered in a timely manner
-- Created and maintained pattern front-end plug-ins for pages
 - Created middleware for legacy systems integration
-- Recommended technical solutions and architecture to clients
 
 ## Software Engineer | SHANGHAI SOFTWARE CENTRE （ Feb 2009 ~ Jul 2011 ）
 
-- Developed and implemented internal softwares(OA, CRM)
+- Developed and implemented the internal softwares(OA, CRM) using .NET and MsSQL
 
 ---
 
