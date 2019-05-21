@@ -1,5 +1,7 @@
 # Contact
 
+
+
 - Mobile: 18101807700
 - Email: fred_xu@outlook.com
 - WeChat: fred_xu666
@@ -15,9 +17,9 @@
 ## Summary
 - 2+ years of project management experience and well-recognized for strong leadership
 - 10 years of experience in software development and architecture designing
-- Rich experienced in communicating with the creative team and cross-regions team
 - Rich experienced in front and back end development
 - Rich experienced in web applications performance tuning and optimization
+- Rich experienced in communicating with the creative team and cross-regions team
 - Skilled in multi-tasking and working on several projects simultaneously
 - Well-organized with an ability to prioritize tasks
 - Excellent expressive and comprehensive ability
