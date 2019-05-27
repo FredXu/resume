@@ -31,7 +31,7 @@
 - Own and drive the development process, both front and back end, to deliver against the product road map
 - Manage teams of developers designing and implementing new functionality, as well as improving existing products
 - Manage the highest-performance scrum team of SHA
-- Lead and hands-on the front and back end coding
+- Lead and hand-on the front-end coding
 - Work across design, DevOps, and development teams to deliver highly scalable and reliable software deployment and management services
 - Recruit top talent and passionate about growing them
 
@@ -39,8 +39,8 @@
 ### Web Developer | AUTODESK （Nov 2014 ~ Mar 2017）
 
 - Identified usability and developed functional and smooth, easy-to-operate and eye-catching web applications
-- Developed javascript SDK/solutions for desktop(Fusion 360/AutoCAD/Revit) and 3rd party web-based products
-- Developed brand new portal(rendering-beta.360.autodesk.com) using HTML5, CSS3, angular.js, node.js and mySQL
+- Developed javascript SDK/solutions for desktop(Fusion 360) and 3rd party web-based products
+- Developed brand new portal(rendering-beta.360.autodesk.com) using HTML5, CSS3, Angular.js, Node.js and MySQL
 - Created a shared UI library based on the company's visual language
 
 
