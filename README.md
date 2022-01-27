@@ -10,11 +10,11 @@
 
 - **Pengyuan(Fred) Xu**
 - BACHELORS (2005 ~ 2009)/Shanghai University of Engineering Science/Computer Science and Technology
-- Work Experience: 10 years
+- Work Experience: 12+ years
 
 ### Summary
 - 2+ years of project management experience and well-recognized for strong leadership
-- 10 years of experience in software development and architecture designing
+- 12 years of experience in software development and architecture designing
 - Rich experienced in communicating with the creative team and cross-regions team
 - Rich experienced in front and back end development
 - Rich experienced in web applications performance tuning and optimization
@@ -26,7 +26,13 @@
 
 ## Work History
 
-### Manager, Software Engineering & Scrum Master | BLACKBOARD (Apr 2017 ~ Present)
+### Senior Web Developer | DYSON (Aug 2019 ~ Present)
+
+- Lead the entire cycle of Dyson Link WeChat mini-program development and deployment
+- Work across design, development and WeChat teams to deliver highly scalable and reliable Dyson Link WeChat mini-program
+- Optimize the performance of web front-end architecture
+
+### Manager, Software Engineering | BLACKBOARD (Apr 2017 ~ Aug 2019)
 
 - Own and drive the development process, both front and back end, to deliver against the product road map
 - Manage teams of developers designing and implementing new functionality, as well as improving existing products
